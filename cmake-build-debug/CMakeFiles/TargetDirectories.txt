@@ -1,0 +1,3 @@
+/Users/vladpuscaru/Documents/gmt/extra/sfml.arkanoid/cmake-build-debug/CMakeFiles/arkanoid.dir
+/Users/vladpuscaru/Documents/gmt/extra/sfml.arkanoid/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vladpuscaru/Documents/gmt/extra/sfml.arkanoid/cmake-build-debug/CMakeFiles/rebuild_cache.dir

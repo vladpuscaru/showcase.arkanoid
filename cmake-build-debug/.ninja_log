@@ -1,0 +1,14 @@
+# ninja log v5
+2	460	1703947381853200259	CMakeFiles/arkanoid.dir/src/main.cpp.o	cef05e3a9e5b4c6f
+1	424	1703851937733460796	CMakeFiles/arkanoid.dir/src/engine/Animation/Animation.cpp.o	b3f0e92be827557c
+3	367	1703947381759916489	CMakeFiles/arkanoid.dir/src/engine/Entities/EntityManager/EntityManager.cpp.o	e00fe682cec51b43
+1	37	1703851937348211828	CMakeFiles/arkanoid.dir/src/engine/Action/Action.cpp.o	b54c731cb4a45ab
+1	524	1704645880599003134	CMakeFiles/arkanoid.dir/src/scenes/ScenePlay/ScenePlay.cpp.o	25c62761508c2158
+2	299	1703947381690844555	CMakeFiles/arkanoid.dir/src/engine/Entities/Entity/Entity.cpp.o	67891eae7b33b2ae
+3	347	1703947381740206817	CMakeFiles/arkanoid.dir/src/engine/Scene/Scene.cpp.o	b910272624159563
+1	638	1703851937947050204	CMakeFiles/arkanoid.dir/src/engine/Assets/Assets.cpp.o	1a54a0589b29973a
+3	318	1703947381711774237	CMakeFiles/arkanoid.dir/src/engine/Physics/Physics.cpp.o	7aff8f8721a5da99
+3	528	1703947381920673304	CMakeFiles/arkanoid.dir/src/engine/GameEngine/GameEngine.cpp.o	77edc451810965aa
+525	572	1704645880649699903	arkanoid	b4350709379585a3
+1	516	1704645948044705511	CMakeFiles/arkanoid.dir/src/scenes/ScenePlay/ScenePlay.cpp.o	25c62761508c2158
+516	562	1704645948093161922	arkanoid	b4350709379585a3

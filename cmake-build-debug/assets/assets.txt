@@ -1,0 +1,1 @@
+Font 0 ../assets/fonts/mainFont.ttf
